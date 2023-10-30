@@ -28,8 +28,15 @@ My name is Dalya Qasem. In my childhood, I was a gifted child and had exceptiona
 
 ### Publications and/or Conferences
 
-1. Paper Title, Journal, Year
-2. Another Paper Title, Conference, Year
+1. Publishing a scientific article about
+blended learning for publication in
+a journal of scientific research
+called Saudi Journal of
+Educational Technology Research.
+
+2. Many opinions and community
+articles were published in Makah
+newspaper, KSA.
 
 ### Contact
 
