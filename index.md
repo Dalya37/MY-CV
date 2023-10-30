@@ -1,27 +1,30 @@
-- [Your Name](#your-name)
-  - [Your Academic Position](#your-academic-position)
+- [Dalya Qasem](#dalya-qasem)
+  - [A PhD stedents at UCF](#a-phd-stedents-at-ucf)
     - [About Me](#about-me)
     - [Research Interests](#research-interests)
     - [Publications and/or Conferences](#publications-andor-conferences)
     - [Contact](#contact)
     - [Follow Me](#follow-me)
-  - [ABOUT ME](#about-me-1)
 
 
+---
+layout: default
+title: Dalya Qasem - Academic Portfolio
+---
 
 
 ![Featured Image](/assets/featured-image.jpg)
 
-# Your Name
-## Your Academic Position
+# Dalya Qasem
+## A PhD stedents at UCF
 
 ### About Me
-Briefly introduce yourself and your academic interests.
+My name is Dalya Qasem. In my childhood, I was a gifted child and had exceptional memory. I have often surprised my parents and my teachers with my recollection skills, such as Repeating long poems and some chapters of books without mistakes and registering for advanced classes while in school. My father always called me the intelligent daughter and said he was proud of me. While working as a writer at Makkah newspaper in 2018, I published a social article titled The Intelligent Daughter, which describes how these positive words affected my academic achievements and my whole life. I moved to the USA in 2009 by receiving a scholarship to improve my educational experience. In 2013, I was awarded a master's in Instructional Design and Technology at UCF. The program added considerable value to my interpersonal skills and career levels, especially in storytelling, digital media, and designing online courses. Previously, I worked as an instructional technology specialist and a supervisor of digital projects in KSA with six years of experience. In 2018, I earned the Director of Education Award from KSA for exemplary work performance and leadership skills. My professional goal is to follow the best opportunities to implement degree knowledge, skills, training, and practice using cutting-edge technologies to improve services, learning, literacy, and communication. Earning a Ph.D. in the T & T program can offer extensive opportunities to understand digital world problems and devise solutions accordingly. I would build from this unique experience toward my future career.
 
 ### Research Interests
-- Topic 1
-- Topic 2
-- Topic 3
+- Film and Digital media
+- Soical media
+- Digital humanties
 
 ### Publications and/or Conferences
 
@@ -30,15 +33,15 @@ Briefly introduce yourself and your academic interests.
 
 ### Contact
 
-- Email: your-email@example.com
-- Office: Your office location
+- Email: dalya.qasem@gmail.com
+
 
 ### Follow Me
 
-- [Bluesky](https://bsky.app/your_bluesky_handle)
-- [LinkedIn](https://linkedin.com/in/your_linkedin_profile)
-- [GitHub](https://github.com/your_github_username)
 
-## ABOUT ME
-<!-- blank line -->
-My name is Dalya Qasem. A Ph.D. student at the University of Central Florida. I was awarded a master's in Instructional Design & Technology at UCF in 2013. The program added considerable value to my interpersonal skills and career levels, especially in storytelling, digital media, using technology to improve services education, and designing online courses. Previously, I worked as an instructional technology specialist and a supervisor of digital projects in Saudi Arabia with six years of experience. During my time there, I was recognized by employers for my achievements in consultation and research skills. I would build from this experience toward my future career.  My professional goal is to follow the best opportunities to implement degree knowledge, skills, training, and practice using cutting-edge technologies to develop ourselves. Earning Ph.D. degree in T & T program can offer extensive opportunities to understand digital world problems and devise solutions accordingly.- [ABOUT ME](#about-me)
+- [LinkedIn](https://linkedin.com/in/Dalyaqasem)
+- [GitHub](https://github.com/your_Dalya37)
+
+
+
+
