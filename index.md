@@ -2,13 +2,7 @@
 layout: default
 title: Dalya Qasem - Academic Portfolio
 ---
-- [Dalya Qasem](#dalya-qasem)
-  - [A PhD stedent](#a-phd-stedent)
-    - [About Me](#about-me)
-    - [Research Interests](#research-interests)
-    - [Publications and/or Conferences](#publications-andor-conferences)
-    - [Contact](#contact)
-    - [Follow Me](#follow-me)
+
 
 ![Featured Image](/assets/featured-image.jpg)
 
