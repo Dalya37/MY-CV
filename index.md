@@ -15,19 +15,14 @@ My name is Dalya Qasem. In my childhood, I was a gifted child and had exceptiona
 ### Research Interests
 - Film and Digital media
 - Soical media
-- Digital humanties
+- Digital transformation.
 
 ### Publications and/or Conferences
 
-1. Publishing a scientific article about
-blended learning for publication in
-a journal of scientific research
-called Saudi Journal of
-Educational Technology Research.
+1. Publishing a scientific article about blended learning in a scientific journal called Saudi Journal of Educational Technology Research.
 
-2. Many opinions and community
-articles were published in Makah
-newspaper, KSA.
+
+2. Publishing many opinions and community articles in Makah newspaper, KSA.
 
 ### Contact
 
