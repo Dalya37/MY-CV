@@ -1,13 +1,14 @@
+title: Midnight theme
 
-title: Dalya Qasem
-
-description: Architect is a theme for GitHub Pages.
+description: Midnight is a theme for GitHub Pages.
 
 show_downloads: true
 
 google_analytics:
 
-theme: jekyll-theme-architect
+theme: jekyll-theme-midnight
+
+
 
  
 
