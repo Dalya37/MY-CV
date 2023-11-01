@@ -34,5 +34,5 @@ My name is Dalya Qasem. In my childhood, I was a gifted child and had exceptiona
 
 
 - [LinkedIn](https://linkedin.com/in/Dalyaqasem)
-- [GitHub](https://github.com/your_Dalya37)
+- [GitHub](https://github.com/Dalya37)
 
