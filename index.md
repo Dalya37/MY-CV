@@ -2,6 +2,16 @@
 layout: default
 title: Dalya Qasem - Academic Portfolio
 ---
+<aside id="sidebar">
+
+<a href= https://dalya37.github.io/MY-CV/ class="button">Home</a>
+<a href="highlights" class="button">Highlights</a>
+<a href="projects" class="button">Projects</a>
+<a href="projects" class="button">CV</a>
+
+</aside>
+
+ 
 
 
 ![Featured Image](/assets/featured-image.jpg)
