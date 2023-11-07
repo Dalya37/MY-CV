@@ -8,6 +8,8 @@
 
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
+ 
+
 {% seo %}
 
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
@@ -36,24 +38,43 @@
 
   <body>
 
+<aside id="sidebar">
+
+ 
+
+          <a href=https://[Your GitHub Username].github.io/repository0name/ class="button">Home</a>
+
+          <a href="teaching" class="button">Teaching</a>
+
+          <a href="projects" class="button">Projects</a>
+
+ 
+
       <div id="header">
 
-        <ul>
+        <nav>
 
-            <li class="fork"><a href="{{ https://dalya37.github.io/MY-CV/}}">Home</a></li>
-            <a class="downloads" href="/highlights/index.md">Highlights</a>
-            <a class="downloads" href="/projects/index.md">Projects</a>
+          <ul>
+
+            <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
+
+            {% if site.show_downloads %}
+
+              <li class="downloads"><a href="{{ site.github.zip_url }}">ZIP</a></li>
+
+              <li class="downloads"><a href="{{ site.github.tar_url }}">TAR</a></li>
+
+              <li class="title">DOWNLOADS</li>
+
             {% endif %}
 
           </ul>
- 
+
+        </nav>
+
       </div><!-- end header -->
 
-      <aside id="sidebar">
-
-        <a href=https://[Your GitHub Username].github.io/repository0name/ class="fork">Home</a>
-        <a href="teaching" class="button">downloads</a>
-        <a href="projects" class="button">downloads</a>
+ 
 
     <div class="wrapper">
 
@@ -69,9 +90,13 @@
 
           <hr>
 
+          <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
+
+          <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href=https://twitter.com/mattgraham>mattgraham</a></span>
 
         </div>
 
+ 
 
         {{ content }}
 
