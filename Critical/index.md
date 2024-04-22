@@ -9,6 +9,7 @@ As I learned in critical-making class, every exercise intended to connect the ma
 For Example, interactive games such as the Bitsy Game supported a complete assessment of critical moments in the past, facilitating the examination of shared norms and the influence of individual agency. Through forming collaborative narratives, I could communicate intricate historical themes and trigger deep reflection on the unified threads of history and the present. By utilizing the capacity of interactive games, we can augment our comprehension of the past and encourage an immersed understanding of the transformative moments that influence the globe. 
 
 # 1: SELFE
+
 As selfie is a part of visual culture, this exercise helps students to explore personal relationships with the act of making and how to make a critical selfie by using digital arts.
 Welcome to my selfie exercise:
 Traveling is one of the most interesting decisions for all individuals, but traveling to study is different; it means alienation and separation. Separation means being away from your country, family, and close friends for years, but after graduation, you will know it is worth it.
@@ -28,10 +29,10 @@ Finally, I am not a good artist, but I decided to draw to convince myself that l
 # 2: Comics
 
 In this exercise, “you can explore how scholarly comics build an argument, commentary, or critique through the juxtaposition of the visual and the textual by creating a generic stick figure conversation newspaper comic, with six panels:” ChatGPT4 and Dall-E.
- The concept of this exercise is to understand the meaning of exploring the intersection of image and text–images or comics. Comic is a type of communication that includes a mix of materials such as conversations and original images. The topic about the bullying to create comics. Let me begin with the meaning of bullying. Bullying It is a form of violence, which is any aggressive behavior caused by a person or group of people intentionally and repeatedly several times; bullying may lead to harm or distress to the target person (whether a child or young person), including physical, psychological, social, or educational harm, and common types of bullying at school is the verbal bullying. (2). The purpose of choosing this comic is to clarify the Consequences of bullying. My comics are a complete list of lessons showing how harmful bullying can be. To sum up, whatever action you do gets back to you, good or bad.
- References;
-1-https://kairos.technorhetoric.net/23.1/inventio/salter-et-al/index.htmlLinks to an external site.
-2-https://www.apa.org/topics/bullyingLinks to an external site.
+The concept of this exercise is to understand the meaning of exploring the intersection of image and text–images or comics. Comic is a type of communication that includes a mix of materials such as conversations and original images. The topic about the bullying to create comics. Let me begin with the meaning of bullying. Bullying It is a form of violence, which is any aggressive behavior caused by a person or group of people intentionally and repeatedly several times; bullying may lead to harm or distress to the target person (whether a child or young person), including physical, psychological, social, or educational harm, and common types of bullying at school is the verbal bullying. (2). The purpose of choosing this comic is to clarify the Consequences of bullying. My comics are a complete list of lessons showing how harmful bullying can be. To sum up, whatever action you do gets back to you, good or bad.
+**References:**
+* [Link 1](https://kairos.technorhetoric.net/23.1/inventio/salter-et-al/index.htmlLinks)
+* [Link 2](https://www.apa.org/topics/bullyingLinks)
 
 ![Comic](./images/3.jpg)
 
@@ -44,7 +45,7 @@ The action and decision-making of the player within the bitsy game helps to exam
 
 In the project, the usage of Bitsy games supported a complete assessment of critical moments in the past times, facilitating the examination of shared norms and the influence of individual agency. Through forming collaborative narratives, I could communicate intricate historical themes and trigger deep reflection on the unified threads of history and the present.
 
-[Here is the link for the game](queen_effat.html)
+[Here is the game link in Bitsy](queen_effat.html)
 
 # 4: Generation- Artificial Intelligence AI
 
