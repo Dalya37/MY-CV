@@ -70,4 +70,4 @@ This exercise helps you to create your own GIF By using GIF Maker APP
 Many popular GIFs are based around emojis, especially in messages and social media. Returning to the beginning of human communications, humans have relied on multiple means of communication, such as sounds or symbols, to transmit feelings. In today's digital age, social media has evolved to include a new and unique language, emojis. Emoji embodies a variety of meanings and feelings in simple and cheerful forms, expressing a range of emotions and thoughts that are sometimes difficult to describe in text words. Emoji combines symbols, emojis, and miniature shapes to form an expressive language that addresses our feelings and allows us to communicate without linguistic boundaries. In Arabic culture, we say Emoji can speak.
 An example of creating a GIF is using emojis to describe students' feelings while doing assignments. It expresses emotional reactions using four types of emojis. The emotions usually start as follows: worrying face, sad face, thinking face, and the final Emoji ends with a smiley heart face.
 
-![GIF](./images/7.gif)
+![Animation](./images/7.gif)
