@@ -22,3 +22,16 @@ Moving to the digital part, I tried to use warm, black, and colorful filters. I 
 Moreover, starting with the selfie chapter made me realize the importance of studying critical making. What inspired me to choose the traveling topic and my selfie is reading chapter one, which offers insights into cultural values and focuses on this sentence: “An image is worth 1,000 words.” My selfie might be just a picture, but from my viewpoint, it has a more profound meaning. it refers to dreams, learning, and challenges; it moves my feelings to either happiness or sadness. In other words, it shows how human emotions can be expressed in pictures.
 Finally, I am not a good artist, but I decided to draw to convince myself that life needs some practice to achieve creativity. I chose the last digital picture since it is the most exciting and unexpected emergent change; the black lines around me express the thoughts running through my head while I am on the plane.
 
+![Selfe](./images/1.jpg)
+
+
+## 2: Comics
+
+In this exercise, “you can explore how scholarly comics build an argument, commentary, or critique through the juxtaposition of the visual and the textual by creating a generic stick figure conversation newspaper comic, with six panels:” ChatGPT4 and Dall-E.
+ The concept of this exercise is to understand the meaning of exploring the intersection of image and text–images or comics. Comic is a type of communication that includes a mix of materials such as conversations and original images. The topic about the bullying to create comics. Let me begin with the meaning of bullying. Bullying It is a form of violence, which is any aggressive behavior caused by a person or group of people intentionally and repeatedly several times; bullying may lead to harm or distress to the target person (whether a child or young person), including physical, psychological, social, or educational harm, and common types of bullying at school is the verbal bullying. (2). The purpose of choosing this comic is to clarify the Consequences of bullying. My comics are a complete list of lessons showing how harmful bullying can be. To sum up, whatever action you do gets back to you, good or bad.
+ References;
+1-https://kairos.technorhetoric.net/23.1/inventio/salter-et-al/index.htmlLinks to an external site.
+2-https://www.apa.org/topics/bullyingLinks to an external site.
+
+![Comic](./images/3.jpg)
+
