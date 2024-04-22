@@ -3,9 +3,6 @@ layout: default
 title: Dalya Qasem - Academic Portfolio
 ---
 
- 
-
-
 ![Featured Image](/assets/featured-image.jpg)
 
 # Dalya Qasem

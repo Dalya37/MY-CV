@@ -17,4 +17,5 @@ During my long journeys, I took many pictures on airplanes. The selfie picture b
 The best thing about the traveling experience was practicing my writing hobby during any flight. Taking selfies during traveling means a lot to me, it means capturing the moment that matter.
 Moving to the digital part, I tried to use warm, black, and colorful filters. I also tried to use digital art for some pictus.
 
-!1.jpg 
+![Selfe](/assets/1.jpg)
+
