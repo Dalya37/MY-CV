@@ -8,7 +8,7 @@ As I learned in critical-making class, every exercise intended to connect the ma
 
 For Example, interactive games such as the Bitsy Game supported a complete assessment of critical moments in the past, facilitating the examination of shared norms and the influence of individual agency. Through forming collaborative narratives, I could communicate intricate historical themes and trigger deep reflection on the unified threads of history and the present. By utilizing the capacity of interactive games, we can augment our comprehension of the past and encourage an immersed understanding of the transformative moments that influence the globe. 
 
-## 1: SELFE
+# 1: SELFE
 As selfie is a part of visual culture, this exercise helps students to explore personal relationships with the act of making and how to make a critical selfie by using digital arts.
 Welcome to my selfie exercise:
 Traveling is one of the most interesting decisions for all individuals, but traveling to study is different; it means alienation and separation. Separation means being away from your country, family, and close friends for years, but after graduation, you will know it is worth it.
@@ -22,10 +22,10 @@ Moving to the digital part, I tried to use warm, black, and colorful filters. I 
 Moreover, starting with the selfie chapter made me realize the importance of studying critical making. What inspired me to choose the traveling topic and my selfie is reading chapter one, which offers insights into cultural values and focuses on this sentence: “An image is worth 1,000 words.” My selfie might be just a picture, but from my viewpoint, it has a more profound meaning. it refers to dreams, learning, and challenges; it moves my feelings to either happiness or sadness. In other words, it shows how human emotions can be expressed in pictures.
 Finally, I am not a good artist, but I decided to draw to convince myself that life needs some practice to achieve creativity. I chose the last digital picture since it is the most exciting and unexpected emergent change; the black lines around me express the thoughts running through my head while I am on the plane.
 
-![Selfe](./images/1.jpg)
+![Selfe](./images/2.jpg)
 
 
-## 2: Comics
+# 2: Comics
 
 In this exercise, “you can explore how scholarly comics build an argument, commentary, or critique through the juxtaposition of the visual and the textual by creating a generic stick figure conversation newspaper comic, with six panels:” ChatGPT4 and Dall-E.
  The concept of this exercise is to understand the meaning of exploring the intersection of image and text–images or comics. Comic is a type of communication that includes a mix of materials such as conversations and original images. The topic about the bullying to create comics. Let me begin with the meaning of bullying. Bullying It is a form of violence, which is any aggressive behavior caused by a person or group of people intentionally and repeatedly several times; bullying may lead to harm or distress to the target person (whether a child or young person), including physical, psychological, social, or educational harm, and common types of bullying at school is the verbal bullying. (2). The purpose of choosing this comic is to clarify the Consequences of bullying. My comics are a complete list of lessons showing how harmful bullying can be. To sum up, whatever action you do gets back to you, good or bad.
@@ -35,3 +35,13 @@ In this exercise, “you can explore how scholarly comics build an argument, com
 
 ![Comic](./images/3.jpg)
 
+# 3: Game
+
+This exercise helps to learn how to do critical making games.
+Bitsy is an interactive game which allowed me to present a story of Queen Effat, who is a leading character in KSA's history, demonstrated the transformative power of learning and promoted gender equality. In a period when social standards controlled educational prospects for girls, she challenged convention and supported women's privileges to pursue education. Her groundbreaking attempts laid the basis for persistent change, leaving a legacy that lasts to encourage generations.
+    
+The action and decision-making of the player within the bitsy game helps to examine historical circumstances, experiencing the outcomes of numerous options directly.  By incorporating interactive games into digital history schemes, we can surpass conventional modes of engagement and offer opportunities for deep assessment and reflection. Also, the availability of platforms such as Bitsy democratizes the formation of historical games, enabling individuals to discuss distinct viewpoints and insights with an international audience.
+
+In the project, the usage of Bitsy games supported a complete assessment of critical moments in the past times, facilitating the examination of shared norms and the influence of individual agency. Through forming collaborative narratives, I could communicate intricate historical themes and trigger deep reflection on the unified threads of history and the present.
+
+[Here is the link for the game](queen_effat.html)
