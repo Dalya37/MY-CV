@@ -16,3 +16,5 @@ As for the psychological benefits of travel, it can help me explore, learn, and 
 During my long journeys, I took many pictures on airplanes. The selfie picture below was taken during the last trip to the USA in 2023. The total flight duration from Riyadh, KSA, to Washington, DC, is 13 hours. Then, there was a six to seven hours layover at Washington Dallas airport and, finally, one more flight to Orlando. So, the total hours of all the flights is around 22 hours, including tears, back pain, and two weeks of jetlag.
 The best thing about the traveling experience was practicing my writing hobby during any flight. Taking selfies during traveling means a lot to me, it means capturing the moment that matter.
 Moving to the digital part, I tried to use warm, black, and colorful filters. I also tried to use digital art for some pictus.
+
+!1.jpg 
