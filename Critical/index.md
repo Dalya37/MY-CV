@@ -17,7 +17,7 @@ During my long journeys, I took many pictures on airplanes. The selfie picture b
 The best thing about the traveling experience was practicing my writing hobby during any flight. Taking selfies during traveling means a lot to me, it means capturing the moment that matter.
 Moving to the digital part, I tried to use warm, black, and colorful filters. I also tried to use digital art for some pictus.
 
-![Selfe](./assets/1.jpg)
+![Selfe](./images/1.jpg)
 
 Moreover, starting with the selfie chapter made me realize the importance of studying critical making. What inspired me to choose the traveling topic and my selfie is reading chapter one, which offers insights into cultural values and focuses on this sentence: “An image is worth 1,000 words.” My selfie might be just a picture, but from my viewpoint, it has a more profound meaning. it refers to dreams, learning, and challenges; it moves my feelings to either happiness or sadness. In other words, it shows how human emotions can be expressed in pictures.
 Finally, I am not a good artist, but I decided to draw to convince myself that life needs some practice to achieve creativity. I chose the last digital picture since it is the most exciting and unexpected emergent change; the black lines around me express the thoughts running through my head while I am on the plane.
