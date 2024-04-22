@@ -46,7 +46,7 @@ The action and decision-making of the player within the bitsy game helps to exam
 
 In the project, the usage of Bitsy games supported a complete assessment of critical moments in the past times, facilitating the examination of shared norms and the influence of individual agency. Through forming collaborative narratives, I could communicate intricate historical themes and trigger deep reflection on the unified threads of history and the present.
 
-[Here is the game link in Bitsy](queen_effat.html)
+**[Here is the game link in Bitsy](queen_effat.html)**
 
 # 4: Generation- Artificial Intelligence AI
 
