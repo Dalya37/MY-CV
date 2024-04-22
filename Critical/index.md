@@ -45,3 +45,22 @@ The action and decision-making of the player within the bitsy game helps to exam
 In the project, the usage of Bitsy games supported a complete assessment of critical moments in the past times, facilitating the examination of shared norms and the influence of individual agency. Through forming collaborative narratives, I could communicate intricate historical themes and trigger deep reflection on the unified threads of history and the present.
 
 [Here is the link for the game](queen_effat.html)
+
+# 4: Generation- Artificial Intelligence AI
+
+This Exercise was an excellent opportunity to use AI to search for specific information where AI can construct knowledge and develop shared meanings and information by using chat GPT and CO. Pilot and exploring the differences between both.
+For example, I am interested in the Impact of Using Multimedia to Enhance communication. Therefore, I asked Chat GPT about multimedia tools and received a similar answer to Copilot. However, Copilot is better than Chat GPT because Chat GPT has limitations when creating visual drawings. It only offers guidance to draw.
+ From this introduction, I started to think, “How does the employment of multimedia elements, like videos and images, etc., influence user engagement and communication efficacy on social media platforms?” So, I asked Copilot for multimedia tools to enhance social media communication. The answers below are great.
+
+![AI](./images/4.jpg)
+
+Then, I started to be vague about where meaning is conveyed and where it is lost. So, I asked this question: In the past, we did not have multimedia; does that mean there was not good communication? I was impressed by the answer because it contained some deep information that expanded my knowledge and made me think outside the box. I highlighted it in blue. Afterward, I asked the Copilot about the missing information about multimedia.
+
+![AI](./images/5.jpg)
+
+To think about how AI can assist my making, I asked the Copilot: Can you give me more ideas for using multimedia to enhance communication? But the answer is repeated. It gave me the same answer when I asked for the examples. So, from that point, we can notice where meaning is lost.
+Also, I asked Copilot to draw multimedia that can enhance communication. Here are some different drawings. To evaluate these results and reflect on their implications, it is the most creative drawing with incredible detail. However, I can request the most simple and clear picture and whatever I imagine.
+This chapter also sends a powerful message that made me rethink AI's and human roles. The message indicates that we can access digital tools such as AI to help us write, draw, think, and learn. We must reimagine the roles of students, teachers, and institutions. However, by reflecting on the headlines, fears, and assumptions that both generations of science fiction writers and current journalists have centered in their visions of AI futures, I think that fears revolve around cheating and the lack of protection for online information privacy, and we should find some solutions accordingly. 
+
+![AI](./images/6.png)
+
